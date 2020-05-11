@@ -8,8 +8,5 @@ On top of that, we’ve created an augmented reality app which will use this dat
 
 
 
-[![Capstone Demo]](https://img.youtube.com/vi/pQhjptgXeYI/0.jpg)](http://www.youtube.com/watch?v=pQhjptgXeYI)
+[![SC2 Video](https://img.youtube.com/vi/pQhjptgXeYI/0.jpg)](http://www.youtube.com/watch?v=pQhjptgXeYI)
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=pQhjptgXeYI)
-
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)

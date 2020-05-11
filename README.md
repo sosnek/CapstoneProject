@@ -7,4 +7,4 @@ This process is done by hand, and our project aims to automate the gathering of 
 On top of that, we’ve created an augmented reality app which will use this data to recreate a plant’s growth in real time via an android device.
 
 
-[![Capstone Demo](https://img.youtube.com/vi/--b-pQhjptgXeYI/0.jpg](https://www.youtube.com/embed/pQhjptgXeYI)
+[![Capstone Demo](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg](https://www.youtube.com/embed/pQhjptgXeYI)
